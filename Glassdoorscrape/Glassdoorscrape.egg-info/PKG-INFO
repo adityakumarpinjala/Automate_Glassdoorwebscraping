@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Glassdoorscrape
+Version: 0.0.1
+Summary: In this we are scraping the FAANG companies interview data
+Home-page: https://github.com/adityakumarpinjala/Glassdoorscraping
+Author: AdityaPinjala
+Author-email: adityakumarpinjala@gmail.com
+License: MIT
+Description: This will extract the interview details of different companies
+        
+Keywords: package creation
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

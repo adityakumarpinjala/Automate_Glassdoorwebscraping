@@ -1,0 +1,6 @@
+README.md
+setup.py
+Glassdoorscrape.egg-info/PKG-INFO
+Glassdoorscrape.egg-info/SOURCES.txt
+Glassdoorscrape.egg-info/dependency_links.txt
+Glassdoorscrape.egg-info/top_level.txt
